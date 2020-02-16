@@ -35,7 +35,7 @@ main {
 }
 
 h1 {
-    color: #61380E;
+    color: #61380e;
     margin-bottom: 0;
     font-size: 20.5pt;
     font-weight: normal; 
@@ -63,7 +63,7 @@ h3, #list p {
 }
 
 #list li:nth-child(even) {
-    background-color: #EEE;
+    background-color: #eeeeee;
 }
 
 .distance {
